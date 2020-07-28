@@ -17,11 +17,15 @@ If you agree with me and been in the situations above, this project will be for 
 - [MWS Reports](https://github.com/ChameleonTartu/amazon-mws-reports-maven)
 - [MWS Subscriptions](https://github.com/ChameleonTartu/amazon-mws-subscriptions-maven)
 
+## Projects under migration
+
+- [MWS Recommendations](https://github.com/ChameleonTartu/amazon-mws-recommendations-maven)
+
+
 ## Planned migrations
 
 The order is the same as the migration is planned. In order to change ordering please submit tickets with or vote for tickets for migrations.
 
-- Recommendations
 - Feeds
 - Merchant Fulfillment
 - Off-Amazon Payments
