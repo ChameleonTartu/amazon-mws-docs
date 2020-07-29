@@ -16,11 +16,10 @@ If you agree with me and been in the situations above, this project will be for 
 
 - [MWS Reports](https://github.com/ChameleonTartu/amazon-mws-reports-maven) [![Build Status](https://travis-ci.org/ChameleonTartu/amazon-mws-reports-maven.svg?branch=master)](https://travis-ci.org/ChameleonTartu/amazon-mws-reports-maven)
 - [MWS Subscriptions](https://github.com/ChameleonTartu/amazon-mws-subscriptions-maven) [![Build Status](https://travis-ci.org/ChameleonTartu/amazon-mws-subscriptions-maven.svg?branch=master)](https://travis-ci.org/ChameleonTartu/amazon-mws-subscriptions-maven)
-- [MWS Recommendations](https://github.com/ChameleonTartu/amazon-mws-recommendations-maven) [![Build Status](https://travis-ci.org/ChameleonTartu/amazon-mws-recommendations-maven.svg?branch=master)](https://travis-ci.org/ChameleonTartu/amazon-mws-recommendations-maven)
-
 
 ## Projects under migration
 
+- [MWS Recommendations](https://github.com/ChameleonTartu/amazon-mws-recommendations-maven) [![Build Status](https://travis-ci.org/ChameleonTartu/amazon-mws-recommendations-maven.svg?branch=master)](https://travis-ci.org/ChameleonTartu/amazon-mws-recommendations-maven)
 - [MWS Feeds](https://github.com/ChameleonTartu/amazon-mws-feeds-maven)
 
 ## Planned migrations
