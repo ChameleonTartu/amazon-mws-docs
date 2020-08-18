@@ -23,13 +23,12 @@ If you agree with me and been in the situations above, this project will be for 
 ## Projects under migration
 
 - [MWS Feeds](https://github.com/ChameleonTartu/amazon-mws-feeds-maven)
+- [MWS EasyShip](https://github.com/ChameleonTartu/amazon-mws-easyship-maven)
 
 ## Planned migrations
 
 The order is the same as the migration is planned. In order to change ordering please submit tickets with or vote for tickets for migrations.
 
-- Off-Amazon Payments
-- EasyShip
 - Orders
 - Finances
 - Products
@@ -37,7 +36,7 @@ The order is the same as the migration is planned. In order to change ordering p
 - Fulfillment Inventory
 - Fulfillment Outbound Shipment
 - Sellers
-
+- Off-Amazon Payments
 
 ## How to support?
 
