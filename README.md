@@ -14,16 +14,17 @@ If you agree with me and been in the situations above, this project will be for 
 
 ## Migrated projects
 
-- [MWS Reports](https://github.com/ChameleonTartu/amazon-mws-reports-maven) [![Build Status](https://travis-ci.org/ChameleonTartu/amazon-mws-reports-maven.svg?branch=master)](https://travis-ci.org/ChameleonTartu/amazon-mws-reports-maven)
-- [MWS Subscriptions](https://github.com/ChameleonTartu/amazon-mws-subscriptions-maven) [![Build Status](https://travis-ci.org/ChameleonTartu/amazon-mws-subscriptions-maven.svg?branch=master)](https://travis-ci.org/ChameleonTartu/amazon-mws-subscriptions-maven)
-- [MWS Recommendations](https://github.com/ChameleonTartu/amazon-mws-recommendations-maven) [![Build Status](https://travis-ci.org/ChameleonTartu/amazon-mws-recommendations-maven.svg?branch=master)](https://travis-ci.org/ChameleonTartu/amazon-mws-recommendations-maven)
-- [MWS Merchant Fulfillment](https://github.com/ChameleonTartu/amazon-mws-merchant-fulfillment-maven) [![Build Status](https://travis-ci.org/ChameleonTartu/amazon-mws-merchant-fulfillment-maven.svg?branch=master)](https://travis-ci.org/ChameleonTartu/amazon-mws-merchant-fulfillment-maven)
-
+| MWS SDK name  | Build status | GitHub project | Maven central | SDK Amazon Update |
+| :------------ | :----------: | :------------- | :-----------: | :---------------- |
+| Reports       | [![Build Status](https://travis-ci.org/ChameleonTartu/amazon-mws-reports-maven.svg?branch=master)](https://travis-ci.org/ChameleonTartu/amazon-mws-reports-maven) | [Reports](https://github.com/ChameleonTartu/amazon-mws-reports-maven) | [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.chameleontartu/amazon-mws-reports-maven/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.chameleontartu/amazon-mws-reports-maven/) | 2016-09-21 |
+| Subscriptions | [![Build Status](https://travis-ci.org/ChameleonTartu/amazon-mws-subscriptions-maven.svg?branch=master)](https://travis-ci.org/ChameleonTartu/amazon-mws-subscriptions-maven) | [Subscriptions](https://github.com/ChameleonTartu/amazon-mws-subscriptions-maven) | [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.chameleontartu/amazon-mws-subscriptions-maven/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.chameleontartu/amazon-mws-subscriptions-maven/) | 2014-09-30 |
+| Recommendations | [![Build Status](https://travis-ci.org/ChameleonTartu/amazon-mws-recommendations-maven.svg?branch=master)](https://travis-ci.org/ChameleonTartu/amazon-mws-recommendations-maven) | [Recommendations](https://github.com/ChameleonTartu/amazon-mws-recommendations-maven) | [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.chameleontartu/amazon-mws-recommendations-maven/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.chameleontartu/amazon-mws-recommendations-maven/) | 2014-10-01 |
+| Merchant Fulfillment | [![Build Status](https://travis-ci.org/ChameleonTartu/amazon-mws-merchant-fulfillment-maven.svg?branch=master)](https://travis-ci.org/ChameleonTartu/amazon-mws-merchant-fulfillment-maven) | [Merchant Fulfillment](https://github.com/ChameleonTartu/amazon-mws-merchant-fulfillment-maven) | [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.chameleontartu/amazon-mws-merchant-fulfillment-maven/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.chameleontartu/amazon-mws-merchant-fulfillment-maven/) | 2020-02-06 |
+| EasyShip | [![Travis CI](https://travis-ci.com/ChameleonTartu/amazon-mws-easyship-maven.svg?branch=master)](https://travis-ci.com/ChameleonTartu/amazon-mws-easyship-maven) | [EasyShip](https://github.com/ChameleonTartu/amazon-mws-easyship-maven) | [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.chameleontartu/amazon-mws-easyship-maven/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.chameleontartu/amazon-mws-easyship-maven/) | 2018-09-01 | 
 
 ## Projects under migration
 
 - [MWS Feeds](https://github.com/ChameleonTartu/amazon-mws-feeds-maven)
-- [MWS EasyShip](https://github.com/ChameleonTartu/amazon-mws-easyship-maven)
 
 ## Planned migrations
 
