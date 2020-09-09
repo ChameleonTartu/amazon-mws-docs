@@ -21,11 +21,12 @@ If you agree with me and been in the situations above, this project will be for 
 | Recommendations | [![Build Status](https://travis-ci.org/ChameleonTartu/amazon-mws-recommendations-maven.svg?branch=master)](https://travis-ci.org/ChameleonTartu/amazon-mws-recommendations-maven) | [Recommendations](https://github.com/ChameleonTartu/amazon-mws-recommendations-maven) | [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.chameleontartu/amazon-mws-recommendations-maven/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.chameleontartu/amazon-mws-recommendations-maven/) | 2014-10-01 |
 | Merchant Fulfillment | [![Build Status](https://travis-ci.org/ChameleonTartu/amazon-mws-merchant-fulfillment-maven.svg?branch=master)](https://travis-ci.org/ChameleonTartu/amazon-mws-merchant-fulfillment-maven) | [Merchant Fulfillment](https://github.com/ChameleonTartu/amazon-mws-merchant-fulfillment-maven) | [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.chameleontartu/amazon-mws-merchant-fulfillment-maven/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.chameleontartu/amazon-mws-merchant-fulfillment-maven/) | 2020-02-06 |
 | EasyShip | [![Travis CI](https://travis-ci.com/ChameleonTartu/amazon-mws-easyship-maven.svg?branch=master)](https://travis-ci.com/ChameleonTartu/amazon-mws-easyship-maven) | [EasyShip](https://github.com/ChameleonTartu/amazon-mws-easyship-maven) | [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.chameleontartu/amazon-mws-easyship-maven/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.chameleontartu/amazon-mws-easyship-maven/) | 2018-09-01 | 
+| Fulfillment Inbound Shipment | [![Build Status](https://travis-ci.com/ChameleonTartu/amazon-mws-fulfillment-inbound-shipment-maven.svg?branch=master)](https://travis-ci.com/ChameleonTartu/amazon-mws-fulfillment-inbound-shipment-maven) | [Fulfillment Inbound Shipment](https://github.com/ChameleonTartu/amazon-mws-fulfillment-inbound-shipment-maven) | [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.chameleontartu/amazon-mws-fulfillment-inbound-shipment-maven/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.chameleontartu/amazon-mws-fulfillment-inbound-shipment-maven/) | 2016-04-06 | 
+
 
 ## Projects under migration
 
 - [MWS Feeds](https://github.com/ChameleonTartu/amazon-mws-feeds-maven)
-- [MWS Fulfillment Inbound Shipment](https://github.com/ChameleonTartu/amazon-mws-fulfillment-inbound-shipment-maven)
 
 ## Planned migrations
 
