@@ -27,12 +27,12 @@ If you agree with me and been in the situations above, this project will be for 
 ## Projects under migration
 
 - [MWS Feeds](https://github.com/ChameleonTartu/amazon-mws-feeds-maven)
+- [MWS Orders](https://github.com/ChameleonTartu/amazon-mws-orders-maven)
 
 ## Planned migrations
 
 The order is the same as the migration is planned. In order to change ordering please submit tickets with or vote for tickets for migrations.
 
-- Orders
 - Finances
 - Products
 - Fulfillment Inventory
