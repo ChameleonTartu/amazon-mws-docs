@@ -22,18 +22,18 @@ If you agree with me and been in the situations above, this project will be for 
 | Merchant Fulfillment | [![Build Status](https://travis-ci.org/ChameleonTartu/amazon-mws-merchant-fulfillment-maven.svg?branch=master)](https://travis-ci.org/ChameleonTartu/amazon-mws-merchant-fulfillment-maven) | [Merchant Fulfillment](https://github.com/ChameleonTartu/amazon-mws-merchant-fulfillment-maven) | [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.chameleontartu/amazon-mws-merchant-fulfillment-maven/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.chameleontartu/amazon-mws-merchant-fulfillment-maven/) | 2020-02-06 |
 | EasyShip | [![Travis CI](https://travis-ci.com/ChameleonTartu/amazon-mws-easyship-maven.svg?branch=master)](https://travis-ci.com/ChameleonTartu/amazon-mws-easyship-maven) | [EasyShip](https://github.com/ChameleonTartu/amazon-mws-easyship-maven) | [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.chameleontartu/amazon-mws-easyship-maven/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.chameleontartu/amazon-mws-easyship-maven/) | 2018-09-01 | 
 | Fulfillment Inbound Shipment | [![Build Status](https://travis-ci.com/ChameleonTartu/amazon-mws-fulfillment-inbound-shipment-maven.svg?branch=master)](https://travis-ci.com/ChameleonTartu/amazon-mws-fulfillment-inbound-shipment-maven) | [Fulfillment Inbound Shipment](https://github.com/ChameleonTartu/amazon-mws-fulfillment-inbound-shipment-maven) | [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.chameleontartu/amazon-mws-fulfillment-inbound-shipment-maven/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.chameleontartu/amazon-mws-fulfillment-inbound-shipment-maven/) | 2016-04-06 | 
+| Orders | [![Build Status](https://travis-ci.com/ChameleonTartu/amazon-mws-orders-maven.svg?branch=master)](https://travis-ci.com/ChameleonTartu/amazon-mws-orders-maven) | [Orders](https://github.com/ChameleonTartu/amazon-mws-orders-maven) | [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.chameleontartu/amazon-mws-orders-maven/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.chameleontartu/amazon-mws-orders-maven/) | 2020-02-03 |
 
 
 ## Projects under migration
 
 - [MWS Feeds](https://github.com/ChameleonTartu/amazon-mws-feeds-maven)
-- [MWS Orders](https://github.com/ChameleonTartu/amazon-mws-orders-maven)
+- [MWS Finances](https://github.com/ChameleonTartu/amazon-mws-finances-maven)
 
 ## Planned migrations
 
 The order is the same as the migration is planned. In order to change ordering please submit tickets with or vote for tickets for migrations.
 
-- Finances
 - Products
 - Fulfillment Inventory
 - Fulfillment Outbound Shipment
