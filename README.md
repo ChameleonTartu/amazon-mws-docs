@@ -28,11 +28,12 @@ If you agree with me and been in the situations above, this project will be for 
 
 ## Projects under migration
 
+- [Fulfillment Inventory](https://github.com/ChameleonTartu/amazon-mws-fulfillment-inventory-maven)
+
 ## Planned migrations
 
 The order is the same as the migration is planned. In order to change ordering please submit tickets with or vote for tickets for migrations.
 
-- Fulfillment Inventory
 - Fulfillment Outbound Shipment
 - Sellers
 - Products
