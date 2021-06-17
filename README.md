@@ -42,3 +42,5 @@ The order is the same as the migration is planned. In order to change ordering p
 ## How to support?
 
 If you want to help this project to go, please star it and ports that were useful for you. Submit tickets. Share with your friends and colleagues.
+
+<a href="https://www.buymeacoffee.com/chameleontartu"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=chameleontartu&button_colour=40DCA5&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
